@@ -2,7 +2,17 @@ import React from 'react'
 
 function Square() {
   return (
-    <div>Square</div>
+    <>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+    </>
   )
 }
 
